@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Aaron Brooks",
+    "player_id": 1,
+    "team_id": 1610612751,
+    "age": 29,
+    "height": "185",
+    "weight": "77",
+    "college": "Oregon",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aaron_Brooks_2014.jpg"
+  },
+  {
+    "name": "Aaron Gray",
+    "player_id": 2,
+    "team_id": 1610612751,
+    "age": 28,
+    "height": "213",
+    "weight": "122",
+    "college": "Purdue",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/46/Aaron_Gray_2010.jpg"
+  },
+  {
+    "name": "Aaron Harrison",
+    "player_id": 3,
+    "team_id": 1610612743,
+    "age": 22,
+    "height": "198",
+    "weight": "91",
+    "college": "Kentucky",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Aaron_Harrison_Warriors.jpg"
+  },
+  {
+    "name": "Aaron Jackson",
+    "player_id": 4,
+    "team_id": 1610612742,
+    "age": 29,
+    "height": "196",
+    "weight": "88",
+    "college": "",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aaron_Jackson.jpg"
+  },
+  {
+    "name": "Abdel Nader",
+    "player_id": 5,
+    "team_id": 1610612766,
+    "age": 23,
+    "height": "203",
+    "weight": "102",
+    "college": "Iona",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Abdel_Nader_2017.jpg"
+  },
+  {
+    "name": "Adreian Payne",
+    "player_id": 6,
+    "team_id": 1610612758,
+    "age": 24,
+    "height": "206",
+    "weight": "106",
+    "college": "Michigan State",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adreian_Payne.jpg"
+  },
+  {
+    "name": "Adonis Thomas",
+    "player_id": 7,
+    "team_id": 1610612751,
+    "age": 24,
+    "height": "203",
+    "weight": "93",
+    "college": "",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Adonis_Thomas.jpg"
+  },
+  {
+    "name": "Afflalo, Arron",
+    "player_id": 8,
+    "team_id": 1610612753,
+    "age": 30,
+    "height": "198",
+    "weight": "99",
+    "college": "UCLA",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Afflalo_Arron.jpg"
+  },
+  {
+    "name": "Al-Farouq Aminu",
+    "player_id": 9,
+    "team_id": 1610612755,
+    "age": 25,
+    "height": "206",
+    "weight": "104",
+    "college": "Wake Forest",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Al-Farouq_Aminu_2018.jpg"
+  },
+  {
+    "name": "Alan Anderson",
+    "player_id": 10,
+    "team_id": 1610612753,
+    "age": 30,
+    "height": "198",
+    "weight": "93",
+    "college": "",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Alan_Anderson.jpg"
+  }
+]
