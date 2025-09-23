@@ -4,12 +4,16 @@ from flask import Flask
 from flask import send_file
 from flask import jsonify
 from markupsafe import escape
+import mysql.connector
 
 import json
 import random
 
+
+
 # Creating a new "app" by using the Flask constructor. Passes __name__ as a parameter.
 app = Flask(__name__)
+
 
 
 
@@ -62,6 +66,8 @@ def altezza(height):
 if __name__ == "__main__":
     # Runs the Flask application only if the main.py file is being run.
     app.run()
+
+
 
 
 
