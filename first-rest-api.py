@@ -17,6 +17,16 @@ app = Flask(__name__)
 def hello():
     return "Hello, World!"
 
+@app.route("/air_transport")
+def air_transport():
+    mycursor.execute("SELECT * FROM CLASH_ROYALE.Clash_Unit WHERE Transport='Air'")
+    myresult = mycursor.fetchall()
+    result = [];
+    for x in myresult:
+        print(x);
+        result.append(x);
+    return result
+
 @app.route("/getAllDataInHtml")
 def getAllData():
     mycursor.execute("SELECT * FROM CLASH_ROYALE.Clash_Unit")
@@ -26,3 +36,4 @@ def getAllData():
         print(x);
         result.append(x);
     return result
+
